@@ -1,2 +1,2 @@
-# pypi-package-template
-Template home directory for Python packages intended for publication on PyPI.
+# Learn Q#
+Learning playground for the Q# language in combination with Python.
